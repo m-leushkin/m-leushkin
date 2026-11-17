@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! 👋 Я Максим
 
-<!--
-**m-leushkin/m-leushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Python-разработчик и студент. Пишу понятный код, автоматизирую рутину и создаю небольшие полезные веб-приложения и боты. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Что я умею и с чем работаю
+* **Языки:** Python, HTML / CSS, базовый JavaScript
+* **Бэкенд и автоматизация:** Flask (создание простых сайтов и веб-интерфейсов), `aiogram` (Telegram-боты)
+* **Базы данных:** SQLite (проектирование реляционных схем, сохранение данных)
+* **Инструменты:** Git & GitHub, Render (деплой проектов), базовый дебаг и написание скриптов
+
+### 📌 Избранные проекты
+* **[RF4 Community Bot](https://github.com/m-leushkin/rf4_bot)** — Telegram-бот для автоматизации задач и поддержки игрового сообщества. Работает 24/7 на облачном сервере.
+
+### 📬 Связь
+Учится новое, берусь за небольшие учебные и практические задачи (скрипты, парсеры, простые сайты, боты). Если нужно помочь с кодом или автоматизировать рутинную задачу — пишите!
